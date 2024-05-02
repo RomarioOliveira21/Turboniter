@@ -1,0 +1,23 @@
+{
+	"description": "Framework Codeigniter v3 com diversas customizações para facilitar desenvolvimento de aplicações WEB.",
+	"name": "codeigniter/framework",
+	"type": "project",
+	"homepage": "https://codeigniter.com",
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "Romário de Oliveira",
+			"role": "WEB Developer",
+			"email": "romario.dweb@gmail.com"
+		}
+	],
+	"require": {
+		"php": ">=5.3.7",
+		"vlucas/phpdotenv": "*",
+		"league/plates": "^3.5"
+	},
+	"require-dev": {
+		"filp/whoops": "^2.15",
+		"symfony/var-dumper": "^5.4"
+	}
+}

@@ -1,0 +1,8 @@
+{
+    "php.version": "v7.4",
+    "cSpell.enableFiletypes": [
+        "!javascript",
+        "!php"
+    ],
+    "cSpell.language": "lorem"
+}
